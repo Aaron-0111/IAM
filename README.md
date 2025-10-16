@@ -8,7 +8,7 @@ To implement Identity and Access Management (IAM) in AWS to securely control acc
 ## Algorithm
 
 1. Sign in to the AWS Management Console.
-2. Navigate to the IAM service.
+2. Navigate to the IAM service. 
 3. Create IAM groups with defined policies (e.g., Admin, Developer).
 4. Create IAM users and assign them to appropriate groups.
 5. Create IAM roles if cross-account or service-based access is needed.
